@@ -1,0 +1,33 @@
+
+.tamanho-imgs img{
+    width: 300px;
+    margin-left: 10px;
+    
+}
+
+.texto-img{
+    margin-top:20px;
+    text-align: center;
+    font-weight: 500;
+    
+}
+
+.ajuste-posicao-imgs{
+display: flex;
+justify-content: space-evenly ;
+}
+
+button{
+    cursor: pointer;
+    color: #f0f8ff;
+    background-color: #272a2a;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    margin-top: 10px;
+}

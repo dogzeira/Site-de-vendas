@@ -1,0 +1,8 @@
+
+main{
+    & h1{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+}
