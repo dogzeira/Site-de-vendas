@@ -1,0 +1,13 @@
+
+.centro{
+    text-align: center;
+    margin-top: 100px;
+
+    & span{
+        color: #e31c1c;
+    }
+
+    & button{
+        margin: auto;
+    }
+}
